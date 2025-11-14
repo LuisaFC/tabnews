@@ -1,5 +1,5 @@
 export default function Home(){
     return (
-        <h1> Initial Page 2 </h1>
+        <h1> Initial Page!</h1>
     )
 }
