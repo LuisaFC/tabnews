@@ -1,0 +1,7 @@
+# Arquivo EditorConfig principal
+root = true
+
+# Regras para todos os arquivos
+[*]
+indent_style = space
+indent_size = 2
