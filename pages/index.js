@@ -19,7 +19,7 @@ export default function Home() {
           lineHeight: "20px",
         }}
       >
-        <h1 style={{ color: "#35373b" }}>💪🏼 Em Construção 💪🏼</h1>
+        <h1 style={{ color: "#35373b" }}>💪🏼 Em Construção 💪🏼 </h1>
         <p style={{ color: "#414347" }}>
           Estamos nesse exato momento construindo um local para quem busca
           <strong> motivação diária</strong> e para quem quer compartilhar seu{" "}
